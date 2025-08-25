@@ -29,7 +29,7 @@ This application implements a simple, but effective AI agent that automatically 
    ```
    $ pip install -r requirements.txt
    ```
-3. **Set OpenAI API key**: create .streamlit/secrets.toml file to configure secrets:
+3. **Set OpenAI API key**: create .streamlit/secrets.toml file to configure secrets
    ```
    OPENAI_API_KEY = "openai-api-key"
    ```
