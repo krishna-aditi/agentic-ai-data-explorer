@@ -117,7 +117,7 @@ st.set_page_config(page_title="AI Data Explorer", layout="centered")
 # Title with custom styling
 html_title = """
         <div>
-            <h2 style="text-align:center;"> 📊 AI Data Explorer </h2>
+            <h2 style="text-align:center;"> 🧞 DataGenie: An Agentic AI Data Explorer </h2>
         </div>
     """   
 st.markdown(html_title, unsafe_allow_html=True)
