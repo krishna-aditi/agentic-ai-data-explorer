@@ -14,7 +14,7 @@ This application implements a simple, but effective AI agent that automatically 
 - **LangGraph**: Orchestrates the agent workflow
 - **LangChain**: Manages LLM interactions
 
-## 🚀 Installation Instructions
+## Installation Instructions
 ### Prerequisites
 - Python 3.11+
 - [OpenAI API key](https://openai.com/api/)
@@ -45,12 +45,6 @@ This application implements a simple, but effective AI agent that automatically 
 - **Generate Analysis**: Click "Generate Analysis" button to activate the AI agent
 - **Explore Results**: View AI-generated visualizations and insights
 - **Copy Code**: Use the generated Python code in your own projects
-
-## Project Structure
-src/
-├── app.py              # Streamlit application
-├── helpers.py          # LLM configuration 
-└── requirements.txt    # Python dependencies
     
 ## References
 - [Agentic VIS Challenge](https://www.visagent.org)
