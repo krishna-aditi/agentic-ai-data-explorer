@@ -105,10 +105,8 @@ def parse_response(content):
     parts = re.split(r'```python\s*\n(.*?)```', content, flags=re.DOTALL)
     result = []
     for i, part in enumerate(parts):
-        # Narrative are odd indices
         if i % 2 == 0 and part.strip():  
             result.append(('text', part.strip()))
-        # Code are even indices
         elif i % 2 == 1:  
             result.append(('code', part.strip()))
     return result
