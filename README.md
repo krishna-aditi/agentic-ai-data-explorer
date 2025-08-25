@@ -1,4 +1,4 @@
-# AI Data Explorer
+# Agentic AI Data Explorer App
 This application implements a simple, but effective AI agent that automatically analyzes any uploaded CSV dataset and generates visualizations with insightful explanations. 
 
 ## Workflow
