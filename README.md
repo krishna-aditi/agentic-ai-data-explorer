@@ -6,7 +6,7 @@ This application implements a simple, but effective AI agent that automatically 
 - **AI-powered Analysis using GPT-4o**: LLM analyzes the dataset and decides appropriate visualization types based on data characteristics
 - **Python Code Generation**: Agent generates Python code using matplotlib/seaborn for visualizations
 - **Execution**: Generated code is executed for the uploaded dataset
-- **Result Presentation**: Displays visualizations alongside AI-generated explanations about what each visualization reveals about the data
+- **Result Presentation**: Displays visualizations alongside AI-generated insights about what each visualization reveals about the data
 
 ## Technologies
 - **Streamlit**: Provides the user interface
