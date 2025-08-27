@@ -22,7 +22,7 @@ This application implements a simple, but effective AI agent that automatically 
 ## Setup steps
 1. **Clone repository**
    ```
-   $ git clone https://github.com/krishna-aditi/ai-data-explorer.git
+   $ git clone https://github.com/krishna-aditi/agentic-ai-data-explorer.git
    $ cd ai-data-explorer/src
    ```
 2. **Install dependencies**
@@ -51,3 +51,4 @@ This application implements a simple, but effective AI agent that automatically 
 - [Streamlit.io](https://streamlit.io)
 - [LangChain Academy](https://github.com/langchain-ai/langchain-academy)
 - [OpenAI](https://openai.com/api/)
+- [Medium: Introduction to LangGraph: A Beginner’s Guide](https://medium.com/@cplog/introduction-to-langgraph-a-beginners-guide-14f9be027141)
